@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KeesseeK
-- 👀 I’m interested in Data analysys techniques, Engine builds for motorsport (as a hobby and ex job)
+- 👋 Hi, I’m Krzesimir Kłujszo
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: Krzemek11@gmail.com
+- 📫 How to reach me: Klujszokrzesimir@gmail.com
