@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Krzesimir Kłujszo
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m developing tools using Python, SQL, Power Platform, Powershell, VBA 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: Klujszokrzesimir@gmail.com
